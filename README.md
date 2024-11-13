@@ -24,7 +24,7 @@ A aplicação permite que você crie e interrompa um determinado ciclo, além de
 
 1. Clone este repositório:
     ```bash
-    git clone <https://github.com/KleversonMachado/ignite-timer>
+    git clone https://github.com/KleversonMachado/ignite-timer
     ```
 2. Acesse a pasta do projeto:
     ```bash
