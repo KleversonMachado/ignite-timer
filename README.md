@@ -32,7 +32,7 @@ A aplicação permite que você crie e interrompa um determinado ciclo, além de
     ```
 3. Instale as dependências:
     ```bash
-    npm
+    npm i
     ```
 4. Inicie o servidor de desenvolvimento:
     ```bash
